@@ -7,6 +7,7 @@ include_directories("POO em C++20/ATV1/q21")
 
 add_executable(POO
 
-        "POO em C++20/ATV1/q21/Cupom.h"
-        "POO em C++20/ATV1/q21/main.cpp"
-        "POO em C++20/ATV1/q21/Cupom.cpp")
+        "POO em C++20/ATV2/q16/HugeInteger.cpp"
+        "POO em C++20/ATV2/q16/HugeInteger.h"
+        "POO em C++20/ATV2/q16/main.cpp"
+)

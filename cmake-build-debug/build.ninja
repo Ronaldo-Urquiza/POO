@@ -49,19 +49,19 @@ cmake_ninja_workdir = C$:/Users/ronal/OneDrive/Área$ de$ Trabalho/POO/cmake-bui
 
 build cmake_object_order_depends_target_POO: phony || .
 
-build CMakeFiles/POO.dir/POO_em_C++20/ATV1/q21/main.cpp.obj: CXX_COMPILER__POO_unscanned_Debug C$:/Users/ronal/OneDrive/Área$ de$ Trabalho/POO/POO$ em$ C++20/ATV1/q21/main.cpp || cmake_object_order_depends_target_POO
-  DEP_FILE = CMakeFiles\POO.dir\POO_em_C++20\ATV1\q21\main.cpp.obj.d
+build CMakeFiles/POO.dir/POO_em_C++20/ATV2/q16/HugeInteger.cpp.obj: CXX_COMPILER__POO_unscanned_Debug C$:/Users/ronal/OneDrive/Área$ de$ Trabalho/POO/POO$ em$ C++20/ATV2/q16/HugeInteger.cpp || cmake_object_order_depends_target_POO
+  DEP_FILE = CMakeFiles\POO.dir\POO_em_C++20\ATV2\q16\HugeInteger.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/ronal/OneDrive/Área de Trabalho/POO/POO em C++20/ATV1/q21"
   OBJECT_DIR = CMakeFiles\POO.dir
-  OBJECT_FILE_DIR = CMakeFiles\POO.dir\POO_em_C++20\ATV1\q21
+  OBJECT_FILE_DIR = CMakeFiles\POO.dir\POO_em_C++20\ATV2\q16
 
-build CMakeFiles/POO.dir/POO_em_C++20/ATV1/q21/Cupom.cpp.obj: CXX_COMPILER__POO_unscanned_Debug C$:/Users/ronal/OneDrive/Área$ de$ Trabalho/POO/POO$ em$ C++20/ATV1/q21/Cupom.cpp || cmake_object_order_depends_target_POO
-  DEP_FILE = CMakeFiles\POO.dir\POO_em_C++20\ATV1\q21\Cupom.cpp.obj.d
+build CMakeFiles/POO.dir/POO_em_C++20/ATV2/q16/main.cpp.obj: CXX_COMPILER__POO_unscanned_Debug C$:/Users/ronal/OneDrive/Área$ de$ Trabalho/POO/POO$ em$ C++20/ATV2/q16/main.cpp || cmake_object_order_depends_target_POO
+  DEP_FILE = CMakeFiles\POO.dir\POO_em_C++20\ATV2\q16\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/ronal/OneDrive/Área de Trabalho/POO/POO em C++20/ATV1/q21"
   OBJECT_DIR = CMakeFiles\POO.dir
-  OBJECT_FILE_DIR = CMakeFiles\POO.dir\POO_em_C++20\ATV1\q21
+  OBJECT_FILE_DIR = CMakeFiles\POO.dir\POO_em_C++20\ATV2\q16
 
 
 # =============================================================================
@@ -71,7 +71,7 @@ build CMakeFiles/POO.dir/POO_em_C++20/ATV1/q21/Cupom.cpp.obj: CXX_COMPILER__POO_
 #############################################
 # Link the executable POO.exe
 
-build POO.exe: CXX_EXECUTABLE_LINKER__POO_Debug CMakeFiles/POO.dir/POO_em_C++20/ATV1/q21/main.cpp.obj CMakeFiles/POO.dir/POO_em_C++20/ATV1/q21/Cupom.cpp.obj
+build POO.exe: CXX_EXECUTABLE_LINKER__POO_Debug CMakeFiles/POO.dir/POO_em_C++20/ATV2/q16/HugeInteger.cpp.obj CMakeFiles/POO.dir/POO_em_C++20/ATV2/q16/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\POO.dir
