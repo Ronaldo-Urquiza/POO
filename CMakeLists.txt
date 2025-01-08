@@ -7,14 +7,8 @@ include_directories("POO em C++20/ATV1/q21")
 
 add_executable(POO
 
-        "POO em C++20/ATV4/q14/Empresa.cpp"
-        "POO em C++20/ATV4/q14/Empresa.h"
-        "POO em C++20/ATV4/q14/PessoaJuridica.cpp"
-        "POO em C++20/ATV4/q14/PessoaFisica.cpp"
-        "POO em C++20/ATV4/q14/Pessoa.cpp"
-        "POO em C++20/ATV4/q14/Funcionario.cpp"
-        "POO em C++20/ATV4/q14/cliente.cpp"
-        "POO em C++20/ATV4/q14/main.cpp"
-
-
+        "POO em C++20/ATV3/q15/Agenda.cpp"
+        "POO em C++20/ATV3/q15/Agenda.h"
+        "POO em C++20/ATV3/q15/Pessoa.h"
+        "POO em C++20/ATV3/q15/main.cpp"
 )
