@@ -7,10 +7,10 @@ using std::string;
 
 class PessoaFisica : public Pessoa {
 public:
-    PessoaFisica(string nome, string cpf);  // Modificação aqui
+    PessoaFisica(string nome, string cpf);
 
     string getCPF() const;
-    void setCPF(string cpf);  // Modificação aqui
+    void setCPF(string cpf);
 
 private:
     string CPF;
